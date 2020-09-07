@@ -1,0 +1,25 @@
+2020-07-20T15:28:53.592Z | INFO | 2020-07-20.log | Server started on port 8080. | 
+2020-07-20T15:29:02.331Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:29:02.429Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-20T15:29:02.530Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:29:02.557Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-20T15:29:47.243Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:29:47.254Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-20T15:29:47.430Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:29:47.457Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-20T15:32:34.131Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:32:34.192Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-20T15:32:34.370Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-20T15:32:34.379Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:03:47.993Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:03:52.057Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:03:52.138Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:03:52.142Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:51:05.693Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:51:05.802Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:51:06.104Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:51:06.122Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:51:29.671Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:51:29.728Z | INFO | 2020-07-20.log | Categories fetched successfully | 
+2020-07-21T04:51:29.746Z | INFO | 2020-07-20.log | Request recieved at /categories/ | 
+2020-07-21T04:51:29.755Z | INFO | 2020-07-20.log | Categories fetched successfully | 

@@ -1,0 +1,99 @@
+2020-09-05T05:13:23.591Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:13:54.503Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:15:48.017Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:15:48.024Z | ERROR | 2020-09-05.log | {"listIds":[10]} | data:"Username is not supplied in User create service" | 
+2020-09-05T05:15:56.686Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:17:03.279Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:03.375Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:17:15.037Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:15.119Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:17:28.434Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:28.514Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:17:38.793Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:38.864Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:17:47.613Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:47.677Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:17:57.142Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:17:57.218Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:07.307Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:18:07.359Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:17.413Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:18:17.504Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:25.391Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:18:25.447Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:34.916Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:18:35.022Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:45.160Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:18:45.251Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:18:56.279Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:19:53.633Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:20:06.070Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:23:09.249Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:23:14.242Z | ERROR | 2020-09-05.log | or maybe User is not found. | data:"User could not be retrieved" | 
+2020-09-05T05:23:24.682Z | ERROR | 2020-09-05.log | or maybe User is not found. | data:"User could not be retrieved" | 
+2020-09-05T05:24:42.412Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:24:45.990Z | ERROR | 2020-09-05.log | User could not be retrieved | data:"Maybe User is not found." | 
+2020-09-05T05:26:30.794Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:26:34.964Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:26:47.141Z | ERROR | 2020-09-05.log | TypeError: Cannot read property 'id' of null | data:"Error retrieving User with id=13" | 
+2020-09-05T05:27:38.948Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:27:43.213Z | ERROR | 2020-09-05.log | User could not be retrieved | data:"Maybe User is not found." | 
+2020-09-05T05:28:03.962Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:28:13.112Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:28:19.461Z | ERROR | 2020-09-05.log | User could not be retrieved | data:"Maybe User is not found." | 
+2020-09-05T05:29:39.937Z | INFO | 2020-09-05.log | Request recieved at /users/:id | 
+2020-09-05T05:29:40.079Z | INFO | 2020-09-05.log | User was updated successfully. | 
+2020-09-05T05:29:54.570Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:31:14.683Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:31:30.219Z | INFO | 2020-09-05.log | Request recieved at /users/:id | 
+2020-09-05T05:31:30.357Z | INFO | 2020-09-05.log | User was updated successfully. | 
+2020-09-05T05:31:39.047Z | INFO | 2020-09-05.log | User is retrieved | 
+2020-09-05T05:31:57.256Z | INFO | 2020-09-05.log | Request recieved at /users/:id | 
+2020-09-05T05:31:57.323Z | INFO | 2020-09-05.log | User was updated successfully. | 
+2020-09-05T05:32:26.850Z | INFO | 2020-09-05.log | Request recieved at /users/:id | 
+2020-09-05T05:32:26.862Z | ERROR | 2020-09-05.log | Maybe Category was not found or req.body is empty! | data:"Cannot update User with id=12" | 
+2020-09-05T05:33:35.996Z | INFO | 2020-09-05.log | Request recieved at /users/12 | 
+2020-09-05T05:33:36.007Z | ERROR | 2020-09-05.log | Maybe User was not found | data:"Cannot delete User with id=12" | 
+2020-09-05T05:33:44.432Z | INFO | 2020-09-05.log | Request recieved at /users/11 | 
+2020-09-05T05:33:44.513Z | INFO | 2020-09-05.log | User is deleted successfully | 
+2020-09-05T05:34:55.430Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:34:55.547Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:35:29.371Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:35:29.467Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:36:50.334Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:36:59.380Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:37:24.398Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:37:24.571Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:37:37.589Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:37:37.698Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:38:38.274Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:38:38.387Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:38:46.450Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:38:46.499Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:38:52.327Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:38:52.389Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:38:58.081Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:38:58.178Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:03.471Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:03.535Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:09.803Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:09.834Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:15.000Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:15.059Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:22.530Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:22.576Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:28.858Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:28.930Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:35.704Z | INFO | 2020-09-05.log | Request recieved at /Users/ | 
+2020-09-05T05:39:35.727Z | INFO | 2020-09-05.log | User row created successfully | 
+2020-09-05T05:39:41.758Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:40:55.238Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:40:55.297Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:41:33.056Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:41:57.340Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:41:57.438Z | ERROR | 2020-09-05.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
+2020-09-05T05:42:24.971Z | INFO | 2020-09-05.log | Server started on port 8080. | 
+2020-09-05T05:42:51.062Z | INFO | 2020-09-05.log | Returned all rows from Users table | 
+2020-09-05T05:43:21.013Z | INFO | 2020-09-05.log | Request recieved at /users/delete-list | 
+2020-09-05T05:43:21.089Z | INFO | 2020-09-05.log | Users are deleted successfully | 
+2020-09-05T05:43:36.202Z | INFO | 2020-09-05.log | Returned all rows from Users table | 

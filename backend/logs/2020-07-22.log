@@ -1,0 +1,27 @@
+2020-07-22T17:01:42.062Z | INFO | 2020-07-22.log | Server started on port 8080. | 
+2020-07-22T17:02:43.938Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:02:44.057Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:02:44.350Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:02:44.359Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:02:48.712Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:02:48.719Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:22:00.694Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:22:00.713Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:22:00.866Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:22:00.876Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:22:00.913Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:22:00.920Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:34:55.715Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:34:55.724Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:34:55.808Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:34:55.818Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:34:55.842Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:34:55.848Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:38:47.487Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:38:47.501Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:38:47.615Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:38:47.627Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:38:47.864Z | INFO | 2020-07-22.log | Request recieved at /categories/ | 
+2020-07-22T17:38:47.895Z | INFO | 2020-07-22.log | Categories fetched successfully | 
+2020-07-22T17:38:54.062Z | INFO | 2020-07-22.log | Request recieved at /categories/:id | data:"1" | 
+2020-07-22T17:38:54.172Z | INFO | 2020-07-22.log | Category fetched successfully | 

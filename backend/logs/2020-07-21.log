@@ -1,0 +1,169 @@
+2020-07-21T04:51:59.342Z | INFO | 2020-07-21.log | Server started on port 8080. | 
+2020-07-21T04:52:17.030Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:52:17.057Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T04:52:17.196Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:52:17.203Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T04:56:10.239Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:56:10.299Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T04:56:10.631Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:56:10.637Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T04:58:26.962Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:58:27.007Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T04:58:27.598Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T04:58:27.603Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:00:04.338Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:00:04.375Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:00:04.500Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:00:04.528Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:00:23.462Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:00:23.474Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:00:23.744Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:00:23.750Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:01:18.484Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:01:18.498Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:01:18.712Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:01:18.717Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:03:27.309Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:03:27.324Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:03:27.590Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:03:27.595Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:08:12.146Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:08:12.191Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:08:12.542Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:08:12.547Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:09:21.310Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:09:21.355Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:09:21.611Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:09:21.616Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:12:46.175Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:12:46.211Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:12:46.334Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:12:46.339Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:01.808Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:01.819Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:02.057Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:02.064Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:28.621Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:28.634Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:28.841Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:28.847Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:44.333Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:44.346Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:14:44.429Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:14:44.434Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:15:51.091Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:15:51.103Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:15:51.568Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:15:51.588Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:18:00.071Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:18:00.097Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:18:00.447Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:18:00.451Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:19:16.202Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:19:16.213Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:19:16.488Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:19:16.496Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:20:28.968Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:20:28.979Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:20:29.255Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:20:29.260Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:23:13.097Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:23:13.107Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:23:13.451Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:23:13.463Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:24:22.530Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:24:22.545Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:24:22.818Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:24:22.823Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:26:09.603Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:26:09.664Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:26:09.813Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:26:09.825Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:28:15.457Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:28:15.496Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:28:15.786Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:28:15.798Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:57:44.043Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:57:44.101Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:57:44.472Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:57:44.478Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:59:50.584Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:59:50.618Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T05:59:51.147Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T05:59:51.157Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:00:43.275Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:00:43.287Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:00:43.581Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:00:43.586Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:08:50.583Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:08:50.601Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:08:50.892Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:08:50.897Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:09:19.744Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:09:19.795Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:09:20.161Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:09:20.166Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:11:46.396Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:11:46.443Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:11:46.728Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:11:46.736Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:13:40.761Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:13:40.771Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:13:41.346Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:13:41.353Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:14:26.423Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:14:26.441Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:14:26.757Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:14:26.761Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:18:25.640Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:18:25.652Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:18:26.051Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:18:26.055Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:18:55.684Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:18:55.694Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:18:55.978Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:18:55.983Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:19:26.498Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:19:26.536Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:19:26.844Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:19:26.849Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:21:33.284Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:21:33.313Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:21:33.668Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:21:33.672Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:23:02.016Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:23:02.044Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:23:02.421Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:23:02.427Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:32:03.858Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:32:03.869Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:32:04.209Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:32:04.213Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:34:24.492Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:34:24.503Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:34:24.766Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:34:24.775Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:34:49.790Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:34:49.797Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:34:49.958Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:34:49.963Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:37:54.454Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:37:54.484Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T06:37:54.675Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T06:37:54.679Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T10:29:52.449Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T10:29:52.489Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T10:29:53.099Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T10:29:53.103Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T12:38:10.192Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T12:38:10.220Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T12:38:10.556Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T12:38:10.560Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T15:25:39.320Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T15:25:39.350Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T15:25:39.628Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T15:25:39.631Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T16:02:09.433Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T16:02:09.442Z | INFO | 2020-07-21.log | Categories fetched successfully | 
+2020-07-21T16:02:09.547Z | INFO | 2020-07-21.log | Request recieved at /categories/ | 
+2020-07-21T16:02:09.551Z | INFO | 2020-07-21.log | Categories fetched successfully | 

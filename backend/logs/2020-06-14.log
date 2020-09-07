@@ -1,0 +1,41 @@
+2020-06-14T15:17:06.092Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:18:10.943Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:18:12.752Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Cannot read property 'data' of undefined" | 
+2020-06-14T15:19:54.302Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:20:02.243Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:20:03.707Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Cannot read property 'data' of undefined" | 
+2020-06-14T15:20:26.357Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:20:31.948Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:20:33.720Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 
+2020-06-14T15:24:53.651Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:24:57.429Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:24:59.037Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 
+2020-06-14T15:26:40.400Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:26:46.531Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:26:48.208Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Cannot read property '#<Object>' of undefined" | 
+2020-06-14T15:40:58.585Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T15:41:03.702Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T15:41:05.056Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Cannot read property '#<Object>' of undefined" | 
+2020-06-14T16:11:02.977Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:11:10.484Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:11:12.075Z | ERROR | 2020-06-14.log | Error while inserting data | data:"json is not defined" | 
+2020-06-14T16:11:36.738Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:11:40.135Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:11:42.004Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Unexpected token o in JSON at position 1" | 
+2020-06-14T16:12:26.548Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:12:30.826Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:12:32.320Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Unexpected token o in JSON at position 1" | 
+2020-06-14T16:12:52.238Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:12:56.664Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:12:58.589Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 
+2020-06-14T16:16:19.229Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:16:25.106Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:16:26.540Z | ERROR | 2020-06-14.log | Error while inserting data | data:"Cannot read property '0' of undefined" | 
+2020-06-14T16:17:25.163Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:17:28.374Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:17:30.444Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 
+2020-06-14T16:18:21.940Z | INFO | 2020-06-14.log | Server started on port 8080. | 
+2020-06-14T16:18:26.013Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:18:27.420Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 
+2020-06-14T16:18:45.732Z | INFO | 2020-06-14.log | Request received at /reddit | 
+2020-06-14T16:18:47.117Z | INFO | 2020-06-14.log | NewsApi Headlines called  | 

@@ -1,0 +1,16 @@
+2020-07-08T18:53:57.523Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:53:57.566Z | ERROR | 2020-07-08.log | Category Id cannot be empty | data:{} | 
+2020-07-08T18:54:34.598Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:54:34.599Z | ERROR | 2020-07-08.log | Category Id cannot be empty | data:{} | 
+2020-07-08T18:54:45.925Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:54:45.983Z | ERROR | 2020-07-08.log | Category Id cannot be empty | data:{} | 
+2020-07-08T18:55:18.545Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:55:18.545Z | ERROR | 2020-07-08.log | Category Id cannot be empty | data:{"condition":"corona"} | 
+2020-07-08T18:56:00.721Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:56:03.064Z | INFO | 2020-07-08.log | NewsApi Headlines called  | 
+2020-07-08T18:56:03.218Z | INFO | 2020-07-08.log | NewsApi Data entered in Database | 
+2020-07-08T18:57:16.170Z | INFO | 2020-07-08.log | Request recieved at /categories/ | 
+2020-07-08T18:57:16.226Z | INFO | 2020-07-08.log | Categories fetched successfully | 
+2020-07-08T18:57:41.783Z | INFO | 2020-07-08.log | Request recieved at /headlines | 
+2020-07-08T18:57:42.430Z | INFO | 2020-07-08.log | NewsApi Headlines called  | 
+2020-07-08T18:57:42.436Z | INFO | 2020-07-08.log | NewsApi Data entered in Database | 

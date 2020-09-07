@@ -1,0 +1,62 @@
+2020-09-04T06:08:26.955Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:29:18.633Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:40:29.969Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:45:57.996Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:47:37.177Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:56:39.012Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T06:57:23.317Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T07:05:05.518Z | INFO | 2020-09-04.log | Server started on port 80. | 
+2020-09-04T07:05:41.277Z | INFO | 2020-09-04.log | Server started on port 80. | 
+2020-09-04T07:10:32.937Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T07:11:00.069Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T07:14:14.347Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T13:18:58.330Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:02:07.677Z | INFO | 2020-09-04.log | Request recieved at /users/ | 
+2020-09-04T14:21:00.963Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:24:03.683Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:25:55.032Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:26:17.837Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T14:29:50.677Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:29:55.672Z | INFO | 2020-09-04.log | Returned all rows from Users table | 
+2020-09-04T14:34:01.058Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:34:48.083Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:34:51.776Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T14:37:27.032Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:37:45.527Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T14:37:45.538Z | ERROR | 2020-09-04.log | [object Object] | data:"Username is not supplied in User create service" | 
+2020-09-04T14:40:07.327Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:40:14.792Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T14:40:14.805Z | ERROR | 2020-09-04.log | undefined | data:"Username is not supplied in User create service" | 
+2020-09-04T14:41:32.345Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:41:41.650Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T14:41:41.662Z | ERROR | 2020-09-04.log | {"password":"SumanRam@2020","user_type":1} | data:"Username is not supplied in User create service" | 
+2020-09-04T14:56:49.095Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T14:57:32.347Z | INFO | 2020-09-04.log | Request recieved at /categories/:id | 
+2020-09-04T14:57:32.466Z | ERROR | 2020-09-04.log | Maybe Category was not found or req.body is empty! | data:"Cannot update User with id=2" | 
+2020-09-04T18:10:33.842Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:34.020Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:38.443Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:38.535Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:43.903Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:44.003Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:45.500Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:45.553Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:46.801Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:46.881Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:47.866Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:47.932Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:48.976Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:49.062Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:49.909Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:49.999Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:10:50.873Z | INFO | 2020-09-04.log | Request recieved at /Users/ | 
+2020-09-04T18:10:50.933Z | INFO | 2020-09-04.log | User row created successfully | 
+2020-09-04T18:12:37.594Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T18:12:44.065Z | INFO | 2020-09-04.log | Request recieved at /users/delete-list | 
+2020-09-04T18:12:44.227Z | ERROR | 2020-09-04.log | ReferenceError: deleteIgs is not defined | data:"Some error occured" | 
+2020-09-04T18:12:57.929Z | INFO | 2020-09-04.log | Returned all rows from Users table | 
+2020-09-04T18:15:53.857Z | INFO | 2020-09-04.log | Request recieved at /users/delete-list | 
+2020-09-04T18:15:53.927Z | ERROR | 2020-09-04.log | ReferenceError: deleteIgs is not defined | data:"Some error occured" | 
+2020-09-04T18:17:27.419Z | INFO | 2020-09-04.log | Server started on port 8080. | 
+2020-09-04T18:17:32.915Z | INFO | 2020-09-04.log | Request recieved at /users/delete-list | 
+2020-09-04T18:17:32.936Z | ERROR | 2020-09-04.log | Maybe all Users or Some users are not found | data:"Cannot delete Users" | 
