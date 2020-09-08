@@ -1,9 +1,9 @@
 module.exports = {
-  HOST: "https://arvi-agarbati.herokuapp.com/",
-  USER: "root",
+  HOST: "localhost",
+  USER: "ubuntu",
   PASSWORD: "",
   // PASSWORD: "Moriarty@221B",
-  DB: "arvi_test",
+  DB: "arvi_prod",
   dialect: "mysql",
   pool: {
     max: 5,
