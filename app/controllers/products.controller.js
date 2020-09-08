@@ -35,7 +35,6 @@ exports.create = (req, res) => {
 }
 
 exports.findAll = (req, res) => {
-    console.log("I am here in findAll");
     Products.findAll({})
       .then(data => {
           res.send(data);
