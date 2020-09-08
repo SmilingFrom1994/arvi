@@ -1,3 +1,12 @@
 2020-09-08T15:04:07.211Z | INFO | 2020-09-08.log | Server started on port 8080. | 
 2020-09-08T15:04:38.683Z | INFO | 2020-09-08.log | Server started on port 8080. | 
 2020-09-08T15:06:53.549Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:17:02.144Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:29:44.713Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:30:48.094Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:31:40.977Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:35:28.561Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:44:43.229Z | INFO | 2020-09-08.log | Server started on port 8080. | 
+2020-09-08T18:46:07.358Z | INFO | 2020-09-08.log | Returned all rows from Users table | 
+2020-09-08T18:48:17.086Z | ERROR | 2020-09-08.log | User could not be retrieved | data:"Maybe User is not found." | 
+2020-09-08T18:50:51.122Z | INFO | 2020-09-08.log | Server started on port 8080. | 
