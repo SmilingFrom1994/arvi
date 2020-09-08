@@ -58,10 +58,14 @@ app.get("/data-image/:filename", (req, res, filename) => {
 
 require("./app/routes/users.routes")(app);
 require("./app/routes/accounts.routes")(app);
+require("./app/routes/products.routes")(app);
+require("./app/routes/raw_materials.routes")(app);
 require("./app/routes/buying_histories.routes")(app)
 require("./app/routes/customers.routes")(app);
 require("./app/routes/orders.routes")(app);
+require("./app/routes/order_details.routes")(app);
 require("./app/routes/transactions.routes")(app);
+
 // require("./app/routes/fileupload.routes")(app);
 // require("./app/routes/autoContent.routes")(app);
 // require("./app/routes/reddit.routes")(app);
