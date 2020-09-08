@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "https://arvi-agarbati.herokuapp.com/",
   USER: "root",
   PASSWORD: "",
   // PASSWORD: "Moriarty@221B",
